@@ -1,4 +1,6 @@
-# APIS REST GAMES
+# API REST GAMES
+#### api catálogo de games, onde contém o valores: **title**,**year**,**price**
+
 
 ### Tecnologias ⇩
 
